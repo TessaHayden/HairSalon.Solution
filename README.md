@@ -20,7 +20,7 @@ Claire's list of stylists and clients.
     ```json
     {
       "ConnectionStrings": {
-          "DefaultConnection": "Server=localhost;Port=3306;database=ryans_todo_from_section3;uid=[YOUR-USERNAME];pwd=[YOUR-MYSQL-PASSWORD];"
+          "DefaultConnection": "Server=localhost;Port=3306;database=tessa_hayden_with_ef_core;uid=[YOUR-USERNAME];pwd=[YOUR-MYSQL-PASSWORD];"
       }
     }
     ```
